@@ -176,3 +176,8 @@ Develop a **modular, scalable, and secure resource allocation system** that:
 * [Blockchain in Wireless Networks](#)  
 * [THz Communication Fundamentals](#)
 
+## 📄 Full Project Report
+
+[Download the Project Report PDF](Resource_Allocation_6G_Project_Report.pdf)
+
+
